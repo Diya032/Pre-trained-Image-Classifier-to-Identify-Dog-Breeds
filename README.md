@@ -34,9 +34,7 @@
 
 ## Running Models for classification
 * For Uploaded photos
-  ''' shell
-  sh run_models_batch_uploaded.sh
-  '''
+  `sh run_models_batch_uploaded.sh`
 
 * For Photos present already
   ##  Code from run_models_batch.sh 
